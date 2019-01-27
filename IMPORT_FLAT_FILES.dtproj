@@ -26,26 +26,26 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">DESKTOP-U8PAEJC</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYbFZkGAXh02/WYfcJ5KuiAAAAAACAAAAAAAQZgAAAAEAACAAAABGaZlEcz78827sfSnpil2UEqaAC1+mxxyoFnPd5/a6LQAAAAAOgAAAAAIAACAAAACrVfq8uhp6gm1qUB0ZEaTcZG3pV050tnCShHScxYRrypAAAAAv4UoE5XBqgZpmuuxpohcKEXRPsR0GLTTQK9VishKEOAEnI05AEi6rCzmzkbUcWhr9lqvqFbCVaYgGEVPLK2AcOz64D1b86h65Hrc5jfe5tryDetHO0zirY43C7G3dBQdB5E+i8E9US75B7PiD586/5h9/LJHdYaAwcWMY4uJ4tOAFQZR8UkhRTJrddTL60CpAAAAARwYN9Ibntv+zye4nSoq9XvULvqEV1kKYp+AQbBEZ5SqU9lhBjqgi+1bPAHS/Pz5MdUDtIBdQ1+YMbyFOrxsXIg==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYbFZkGAXh02/WYfcJ5KuiAAAAAACAAAAAAAQZgAAAAEAACAAAAAi216y0jqJVTXrvWbfp+M+HFQA0entF4jasNdpT79UtAAAAAAOgAAAAAIAACAAAADrs97TXXCHWjoUnV15bVU4o8+luX4wepr1asGMA7ete5AAAABjSBq/Uf1HF0fkEwozXxwMP6HYFZsdVQVobgiu8TiU14u94Zp3AkgppX8qDcjXIZG66+CQjLbTXvSC4ln4URHGUTFCipwaJ8lLim7Ky4px/yDngllaQ6Q0wBnhtbxer/iAZCrtjt+gdg4kr6nfiMvVqoyigGJc/Mda1JOEjinX3lNlpKGjJXfTcMbRNWVzUmBAAAAActAn9o939mouvp0aG9pFkx73rfo2LBGPWBZogBJU1hiXBT7cXP9p3A7veSQuXp5JMEeOiGSD8PjdeV3ztZ4FbQ==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
-          <SSIS:Package SSIS:Name="Package.dtsx" SSIS:EntryPoint="1" />
+          <SSIS:Package SSIS:Name="IMPORT_SAMPLE_CONTACT.dtsx" SSIS:EntryPoint="1" />
         </SSIS:Packages>
         <SSIS:ConnectionManagers />
         <SSIS:DeploymentInfo>
           <SSIS:ProjectConnectionParameters />
           <SSIS:PackageInfo>
-            <SSIS:PackageMetaData SSIS:Name="Package.dtsx">
+            <SSIS:PackageMetaData SSIS:Name="IMPORT_SAMPLE_CONTACT.dtsx">
               <SSIS:Properties>
-                <SSIS:Property SSIS:Name="ID">{19658CEB-CC34-4257-861F-E6382373FB09}</SSIS:Property>
-                <SSIS:Property SSIS:Name="Name">Package</SSIS:Property>
+                <SSIS:Property SSIS:Name="ID">{53BAB604-B1AF-4F63-A518-6017F775AC72}</SSIS:Property>
+                <SSIS:Property SSIS:Name="Name">IMPORT_SAMPLE_CONTACT</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">2</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">3</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{8E746F67-F650-483A-A7ED-1991BED6B179}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{BC6B0C07-A700-4997-B844-53D4E441DA1C}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>

@@ -5,14 +5,14 @@
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="DESKTOP-U8PAEJC"
   DTS:CreatorName="DESKTOP-U8PAEJC\RaymondBarley"
-  DTS:DTSID="{19658CEB-CC34-4257-861F-E6382373FB09}"
+  DTS:DTSID="{53BAB604-B1AF-4F63-A518-6017F775AC72}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="15.0.0900.40"
   DTS:LocaleID="1033"
-  DTS:ObjectName="Package"
+  DTS:ObjectName="IMPORT_SAMPLE_CONTACT"
   DTS:PackageType="5"
-  DTS:VersionBuild="2"
-  DTS:VersionGUID="{8E746F67-F650-483A-A7ED-1991BED6B179}">
+  DTS:VersionBuild="3"
+  DTS:VersionGUID="{BC6B0C07-A700-4997-B844-53D4E441DA1C}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
